@@ -1,0 +1,24 @@
+.container {
+  width: 200px;
+  padding: 10px;
+}
+
+button {
+  width: 100%;
+  padding: 8px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+#message {
+  margin-top: 10px;
+  text-align: center;
+  color: #4CAF50;
+} 
