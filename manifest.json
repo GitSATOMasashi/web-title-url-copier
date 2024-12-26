@@ -5,7 +5,9 @@
   "description": "WebページのタイトルとURLを同時にコピーできる拡張機能",
   "permissions": [
     "activeTab",
-    "clipboardWrite"
+    "clipboardWrite",
+    "contextMenus",
+    "scripting"
   ],
   "action": {
     "default_popup": "popup/popup.html"
